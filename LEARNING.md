@@ -39,6 +39,22 @@ A session is considered complete only when it includes at least one runnable art
   - Drill short status vs full status checks.
   - Run Phase 0 full checklist.
 
+### Session 002 - Phase 0 Validation Quiz
+- Date: 2026-11-04
+- Focus: Git + Dev setup knowledge validation (12 questions)
+- Evidence:
+  - Round 1 score: 4/4
+  - Round 2 score: 3/4
+  - Round 3 score: 4/4
+  - Total score: 11/12 (91.7%)
+- Result: PASS
+- Notes:
+  - Remaining weak point was command choice for detailed status guidance.
+  - The practical sync and recovery flow is now reliable.
+- Next:
+  - Start Phase 1 while keeping a short daily Git drill.
+  - Produce one runnable artifact with verification output this week.
+
 ## Weekly Drill Plan (Phase 0 Carry-Over)
 - Day 1: status, fetch, merge --ff-only, push flow
 - Day 2: rebase vs merge simulation in a throwaway branch
